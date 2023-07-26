@@ -1,0 +1,5 @@
+srai[all]==0.2.0
+pandas
+geopandas
+notebook>=6,<7 # RISE not compatible with version 7
+RISE==5.7.1
