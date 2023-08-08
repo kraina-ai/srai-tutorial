@@ -1,3 +1,33 @@
 .myclass {
     color: green;
 }
+
+#rise-header {
+    width: 100%;
+}
+
+#rise-footer {
+    width: 100%;
+}
+
+.header-title {
+    padding: 10px
+}
+
+.footer-title {
+    width:100%; 
+    text-align: center;
+}
+
+
+.header-images {
+    position: absolute; 
+    right: 0; 
+    top: 0;
+}
+
+.header-images img {
+    width: 75px;
+    height: auto;
+    margin: 5px
+}
