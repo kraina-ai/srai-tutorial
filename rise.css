@@ -42,3 +42,14 @@
   height: auto;
   margin: 5px;
 }
+
+.kraina-logo {
+  margin: auto !important;
+  width: 600px;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}

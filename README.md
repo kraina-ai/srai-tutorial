@@ -18,11 +18,29 @@ By the end of the tutorial, attendees will be able to:
 6. Fine-tune pre-trained models to use them in downstream tasks.
 7. Understand the potential applications and future enhancements of the SRAI library.
 
-## Installation
+## Setup
 
-1. `pip install -r requirements.txt`
-2. `jupyter notebook`
-3. `Edit/Exit RISE Slideshow (or alt+r)`
+Initialize Python virtual environment (optional but recommended):
+
+```sh
+python -m venv venv
+source venv/bin/activate
+```
+
+And then install the dependencies:
+
+```sh
+pip install -r requirements.txt
+```
+
+After that, the notebooks can be run. You can start with the [introductory one](00_primer.ipynb).
+
+## Slideshow
+
+It is possible also to run the jupyter notebooks as a slideshow:
+
+1. `> jupyter notebook`
+2. `Edit/Exit RISE Slideshow (or alt+r)` in the opened notebook
 
 ## Used in
 
