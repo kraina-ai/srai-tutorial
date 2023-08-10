@@ -3,3 +3,4 @@ pandas==2.0.3
 geopandas==0.13.2
 notebook>=6,<7 # RISE not compatible with version 7
 RISE==5.7.1
+osmnx==1.6.0
