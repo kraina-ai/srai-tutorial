@@ -15,8 +15,7 @@ By the end of the tutorial, attendees will be able to:
 3. Apply various regionalization and embedding techniques to geospatial data.
 4. Utilize pre-trained embedding models for clustering and similarity search.
 5. Pre-train available models from scratch.
-6. Fine-tune pre-trained models to use them in downstream tasks.
-7. Understand the potential applications and future enhancements of the SRAI library.
+6. Understand the potential applications and future enhancements of the SRAI library.
 
 ## Setup
 
