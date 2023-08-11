@@ -81,9 +81,9 @@ def plot_poster(gdf: gpd.GeoDataFrame, city: str, country: str) -> plt.axes:
     ax = fig.add_subplot()
     ax.set_position([0, 0, 1, 1])
 
-    gdf.dropna(subset=["water", "waterways"], how="all").plot(ax=ax, color="#a8e1e6")
+    gdf.dropna(subset=["water", "waterway"], how="all").plot(ax=ax, color="#a8e1e6")
 
-    gdf.dropna(subset=["major_roads", "minor_roads"], how="all").plot(
+    gdf.dropna(subset=["highway"], how="all").plot(
         ax=ax, color="#181818", markersize=0.1
     )
 

@@ -53,3 +53,8 @@
   justify-content: center;
   flex-direction: column;
 }
+
+.srai-diagram {
+  height: 750px !important;
+  margin: auto !important;
+}
