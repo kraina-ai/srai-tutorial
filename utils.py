@@ -2,6 +2,18 @@ import matplotlib.pyplot as plt
 from typing import Tuple
 import geopandas as gpd
 
+CB_SAFE_PALLETE = [
+    "#377eb8",
+    "#ff7f00",
+    "#4daf4a",
+    "#f781bf",
+    "#a65628",
+    "#984ea3",
+    "#999999",
+    "#e41a1c",
+    "#dede00",
+]
+
 
 def dd2dms(deg):
     d = int(deg)
