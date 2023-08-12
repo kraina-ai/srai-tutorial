@@ -33,7 +33,7 @@ And then install the dependencies:
 pip install -r requirements.txt
 ```
 
-After that, the notebooks can be run. You can start with the [introductory one](00_primer.ipynb).
+After that, the notebooks can be run. You can start with the [introductory one](00_hello.ipynb).
 
 ## Slideshow
 
