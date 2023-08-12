@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kraina-ai/srai-tutorial/HEAD)
+
 # SRAI Tutorial
 
 Introduction to Geospatial Machine Learning with SRAI
