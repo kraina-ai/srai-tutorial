@@ -7,3 +7,6 @@ cache
 files
 poster.png
 lightning_logs
+node_modules
+package-lock.json
+package.json
