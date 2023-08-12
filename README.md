@@ -44,6 +44,14 @@ It is possible also to run the jupyter notebooks as a slideshow:
 1. `> jupyter notebook`
 2. `Edit/Exit RISE Slideshow (or alt+r)` in the opened notebook
 
+## Export to pdf
+
+Use [decktape](https://rise.readthedocs.io/en/stable/exportpdf.html#using-decktape). An exemplary command:
+
+```sh
+./node_modules/.bin/decktape rise -s 1920x1080 http://localhost:8888/notebooks/02_srai.ipynb?token=<copy-token> ./export/02_srai.pdf
+```
+
 ## Used in
 
 - https://pretalx.com/euroscipy-2023/talk/X8LYJY/
