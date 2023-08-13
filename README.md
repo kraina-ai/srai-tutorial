@@ -52,6 +52,10 @@ Use [decktape](https://rise.readthedocs.io/en/stable/exportpdf.html#using-deckta
 ./node_modules/.bin/decktape rise -s 1920x1080 http://localhost:8888/notebooks/02_srai.ipynb?token=<copy-token> ./export/02_srai.pdf
 ```
 
+## Exported Slideshow
+
+Visit [export](./export) folder for the rendered slides. 
+
 ## Used in
 
 - https://pretalx.com/euroscipy-2023/talk/X8LYJY/
