@@ -58,3 +58,26 @@
   height: 750px !important;
   margin: auto !important;
 }
+
+
+.image-container {
+  display: flex;
+  justify-content: center; /* Aligns the images horizontally */
+  align-items: center; /* Aligns the figures vertically */
+}
+
+.image-container figure {
+  width: 33.33%; /* Divides the width equally among three figures */
+  margin: 0 10px; /* Adds 10px of space to the left and right of each figure */
+  text-align: center; /* Centers the caption */
+}
+
+.image-container img {
+  width: 100%; /* Makes the image take up the full width of the figure */
+  height: auto; /* Maintains the aspect ratio */
+  object-fit: contain; /* Ensures that the images fit inside the containers without distortion */
+}
+
+.image-container figcaption {
+  font-size: 14px; /* Adjust the font size as needed */
+}
