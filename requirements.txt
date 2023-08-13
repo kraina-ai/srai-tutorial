@@ -1,4 +1,4 @@
-srai[all]==0.3.2
+srai[all]==0.3.3
 pandas==2.0.3
 geopandas==0.13.2
 notebook>=6,<7 # RISE not compatible with version 7
