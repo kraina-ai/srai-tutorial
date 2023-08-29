@@ -58,4 +58,4 @@ Visit [export](./export) folder for the rendered slides.
 
 ## Used in
 
-- https://pretalx.com/euroscipy-2023/talk/X8LYJY/
+- [EuroSciPy 2023](https://pretalx.com/euroscipy-2023/talk/X8LYJY/) ([Recording](https://www.youtube.com/watch?v=JlyPh_AdQ8E), [Resource Material](https://github.com/kraina-ai/srai-tutorial/tree/EuroSciPy2023))
