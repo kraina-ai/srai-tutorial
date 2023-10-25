@@ -6,19 +6,11 @@ Introduction to Geospatial Machine Learning with SRAI
 
 ## Description
 
-This tutorial offers a thorough introduction to the srai library for Geospatial Artificial Intelligence. Participants will learn how to use this library for geospatial tasks like downloading and processing OpenStreetMap data, extracting features from GTFS data, dividing an area into smaller regions, and representing regions in a vector space using various spatial features. Additionally, participants will learn to pre-train embedding models and train predictive models for downstream tasks.
+Tutorial offers a thorough introduction to the geospatial domain with Python libraries. Participants will learn how to use, analyse and visualize open-source geospatial data. Additionally, participants will learn to pre-train embedding models and train predictive models for downstream tasks.
 
-In this tutorial, we intend to provide a comprehensive introduction to the Spatial Representations for Artificial Intelligence (srai) library. Participants will learn how to utilize this library for various geospatial applications, such as downloading and processing OpenStreetMap data, extracting features from GTFS data, splitting a given area into smaller regions, and embedding regions into a vector space based on different spatial features. Moreover, users will learn how to pre-train a model of their choice and build predictive models for use in downstream tasks.
+Most of the tutorial will be showing capabilities of the library srai (Spatial Representation for Artificial Intelligence), as well as GeoPandas, Shapely, osmnx and scikit-learn.
 
-By the end of the tutorial, attendees will be able to:
-
-1. Install and set up the SRAI library.
-2. Use SRAI to download and process geospatial data.
-3. Apply various regionalization and embedding techniques to geospatial data.
-4. Utilize pre-trained embedding models for clustering and similarity search.
-5. Build predictive models on top of SRAI embeddings
-6. Pre-train available models from scratch.
-7. Understand the potential applications and future enhancements of the SRAI library.
+Beginner knowledge of Python is expected from the participants. Tutorial materials is provided in the form of Jupyter notebooks.
 
 ## Setup
 
@@ -35,7 +27,9 @@ And then install the dependencies:
 pip install -r requirements.txt
 ```
 
-After that, the notebooks can be run. You can start with the [introductory one](00_hello.ipynb).
+After that, the notebooks can be run. They are available in the [tutorial](tutorial) directory. You can start with the [introductory one](tutorial/MLinPL/00_hello.ipynb).
+
+Solutions to the assignments are available in the [answers](answers) directory
 
 ## Slideshow
 
@@ -54,7 +48,15 @@ Use [decktape](https://rise.readthedocs.io/en/stable/exportpdf.html#using-deckta
 
 ## Exported Slideshow
 
-Visit [export](./export) folder for the rendered slides. 
+Visit [export](./export) folder for the rendered slides.
+
+## Generate tutorial
+
+The following command will generate files in the `tutorial` folder.
+
+```sh
+nbgrader generate_assignment MLinPL -f
+```
 
 ## Used in
 
