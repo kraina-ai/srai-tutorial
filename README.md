@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kraina-ai/srai-tutorial/HEAD)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kraina-ai/srai-tutorial/HEAD) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kraina-ai/srai-tutorial/blob/main)
 
 # SRAI Tutorial
 
