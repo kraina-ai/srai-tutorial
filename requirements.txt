@@ -6,3 +6,4 @@ pydeck==0.8.0
 RISE==5.7.1
 osmnx==1.7.0
 annoy==1.17.3
+nbgrader==0.8.5
