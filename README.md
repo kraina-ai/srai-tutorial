@@ -62,3 +62,4 @@ nbgrader generate_assignment MLinPL -f
 ## Used in
 
 - [EuroSciPy 2023](https://pretalx.com/euroscipy-2023/talk/X8LYJY/) ([Recording](https://www.youtube.com/watch?v=JlyPh_AdQ8E), [Resource Material](https://github.com/kraina-ai/srai-tutorial/tree/EuroSciPy2023))
+- [MLinPL 2023](https://conference2023.mlinpl.org/program#tutorial-3) ([Resource Material](https://github.com/kraina-ai/srai-tutorial/tree/MLinPL2023))
