@@ -13,5 +13,3 @@ package.json
 .DS_Store
 gradebook.db
 release/**
-tutorial/MLinPL/**
-!tutorial/MLinPL/rise.css
