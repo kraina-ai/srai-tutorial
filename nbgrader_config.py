@@ -8,7 +8,7 @@ c = get_config()
 # server set up.
 c.CourseDirectory.course_id = "srai-tutorial"
 
-c.IncludeHeaderFooter.header = "answers/header.ipynb"
+# c.IncludeHeaderFooter.header = "answers/header.ipynb"
 
 ###############################################################################
 # End additions by nbgrader quickstart
