@@ -1,9 +1,8 @@
-srai[osm,plotting]==0.5.1
-pandas==2.0.3
-geopandas==0.13.2
+srai[osm,plotting]==0.7.3
+pandas==2.2.2
+geopandas==0.14.3
 notebook>=6,<7 # RISE not compatible with version 7
 pydeck==0.8.0
 RISE==5.7.1
-osmnx==1.7.0
+osmnx==1.9.2
 nbgrader==0.8.5
-h3>=4.0.0b1,<4.0.0b3
