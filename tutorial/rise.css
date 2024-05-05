@@ -1,0 +1,83 @@
+.main-title {
+  background-image: url("../../assets/banner-o.png");
+  background-size: cover;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+  position: absolute;
+  padding: 20px;
+}
+
+.main-title h1 {
+  color: rgb(23, 121, 23);
+}
+
+#rise-header {
+  width: 100%;
+}
+
+#rise-footer {
+  width: 100%;
+}
+
+.header-title {
+  padding: 10px;
+}
+
+.footer-title {
+  width: 100%;
+  text-align: center;
+}
+
+.header-images {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.header-images img {
+  width: 75px;
+  height: auto;
+  margin: 5px;
+}
+
+.kraina-logo {
+  margin: auto !important;
+  width: 600px;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.srai-diagram {
+  height: 750px !important;
+  margin: auto !important;
+}
+
+
+.image-container {
+  display: flex;
+  justify-content: center; /* Aligns the images horizontally */
+  align-items: center; /* Aligns the figures vertically */
+}
+
+.image-container figure {
+  width: 33.33%; /* Divides the width equally among three figures */
+  margin: 0 10px; /* Adds 10px of space to the left and right of each figure */
+  text-align: center; /* Centers the caption */
+}
+
+.image-container img {
+  width: 100%; /* Makes the image take up the full width of the figure */
+  height: auto; /* Maintains the aspect ratio */
+  object-fit: contain; /* Ensures that the images fit inside the containers without distortion */
+}
+
+.image-container figcaption {
+  font-size: 14px; /* Adjust the font size as needed */
+}

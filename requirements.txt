@@ -1,8 +1,13 @@
 srai[osm,plotting]==0.7.3
-pandas==2.2.2
-geopandas==0.14.3
+quackosm==0.7.2
+lonboard==0.8.0
+xgboost==2.0.3
+rich==13.7.1
+seaborn==0.13.2
+# pandas==2.2.2
+# geopandas==0.14.3
 notebook>=6,<7 # RISE not compatible with version 7
-pydeck==0.8.0
+# pydeck==0.8.0
 RISE==5.7.1
-osmnx==1.9.2
-nbgrader==0.8.5
+# osmnx==1.9.2
+# nbgrader==0.8.5
