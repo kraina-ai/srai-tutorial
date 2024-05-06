@@ -1,4 +1,4 @@
-srai[osm,plotting]==0.7.3
+srai[osm,plotting]==0.7.4
 quackosm==0.7.2
 lonboard==0.8.0
 xgboost==2.0.3
