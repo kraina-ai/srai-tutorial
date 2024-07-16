@@ -31,7 +31,7 @@ def plot_rectangle_with_text(
     subtitle: str = "",
 ):
     width = 1.0
-    height = 0.085
+    height = 0.1
     fontsize_title = 45
     fontsize_subtitle = 15
 
@@ -63,7 +63,7 @@ def plot_rectangle_with_text(
 
     ax.text(
         cx,
-        cy - 0.032,
+        cy - 0.038,
         subtitle,
         fontsize=fontsize_subtitle,
         transform=ax.transAxes,
