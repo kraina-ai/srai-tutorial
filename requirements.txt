@@ -4,3 +4,4 @@ lonboard==0.9.1
 xgboost==2.0.3
 rich==13.7.1
 notebook>=6,<7 # RISE not compatible with version 7
+seaborn==0.13.2
