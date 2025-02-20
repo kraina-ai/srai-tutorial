@@ -1,8 +1,6 @@
-srai[osm,plotting]==0.7.3
-pandas==2.2.2
-geopandas==0.14.3
+srai[all]==0.9.4
 notebook>=6,<7 # RISE not compatible with version 7
-pydeck==0.8.0
 RISE==5.7.1
-osmnx==1.9.2
-nbgrader==0.8.5
+seaborn
+contextily
+openpyxl
