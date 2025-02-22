@@ -4,3 +4,8 @@ RISE==5.7.1
 seaborn
 contextily
 openpyxl
+lonboard
+optuna
+optuna-integration[lightgbm]
+lightgbm
+datasets
