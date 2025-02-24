@@ -1,4 +1,4 @@
-srai[all]==0.9.4
+srai[all]==0.9.5
 notebook>=6,<7 # RISE not compatible with version 7
 RISE==5.7.1
 seaborn
@@ -9,3 +9,5 @@ optuna
 optuna-integration[lightgbm]
 lightgbm
 datasets
+xgboost
+scikit-learn
