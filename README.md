@@ -11,7 +11,7 @@ List of available tutorials:
 
 | Event     | Branch | Date       |
 |----------------|--------|------------|
-| [Data & AI Warsaw Tech Summit 2026]([https://submit.geopython.net/geopython-2025/talk/PUVEDJ/](https://dataiwarsaw.tech/workshops/#dataplace-ai-workshops-22-04)) | [dawts2026](https://github.com/kraina-ai/srai-tutorial/tree/dawts2026) | 2026-04-22 |
+| [Data & AI Warsaw Tech Summit 2026](https://dataiwarsaw.tech/workshops/#dataplace-ai-workshops-22-04) | [dawts2026](https://github.com/kraina-ai/srai-tutorial/tree/dawts2026) | 2026-04-22 |
 | [GeoPython 2025](https://submit.geopython.net/geopython-2025/talk/PUVEDJ/) | [geopython2025](https://github.com/kraina-ai/srai-tutorial/tree/geopython2025) | 2025-02-26 |
 | [State Of The Map 2024](https://cfp.openstreetmap.org.pl/state-of-the-map-europe-2024/talk/J9U3UW/) | [sotm2024](https://github.com/kraina-ai/srai-tutorial/tree/sotm2024) | 2024-07-19 |
 | [OSM Data made easy with Quack OSM - Interview with Matt Forrest](https://www.youtube.com/watch?v=r6cWiSULgYs) | [osm-deep-dive](https://github.com/kraina-ai/srai-tutorial/tree/osm-deep-dive) | 2024-05-14 |
